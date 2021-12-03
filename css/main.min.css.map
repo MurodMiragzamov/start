@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,EAAE,AAAC,CACD,KAAK,CAAE,GAAG,CACX,AEFD,AAAA,EAAE,AAAC,CACD,UAAU,CAAE,MAAM,CACnB,AEFD,AAAA,EAAE,AAAC,CACD,SAAS,CAAE,IAAI,CAChB",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_general.scss",
+        "../scss/_variables.scss",
+        "../scss/pages/about/_about.scss",
+        "../scss/pages/about/_header.scss",
+        "../scss/pages/home/_home.scss",
+        "../scss/pages/home/_header.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
